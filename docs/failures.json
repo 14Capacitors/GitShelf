@@ -1,0 +1,10 @@
+{
+  "failures": [
+    {
+      "filename": "蒋跞.zip",
+      "book_id": "蒋跞",
+      "error": "ZIP must contain index.html at root level: 蒋跞.zip",
+      "failed_at": "2026-09-13T10:32:35Z"
+    }
+  ]
+}
